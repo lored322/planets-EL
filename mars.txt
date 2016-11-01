@@ -2,3 +2,4 @@ This is my paper about Mars.
 Mars is one of the planets in the solar system.
 Mars is red and small.
 More scientific information needs to be added here
+I can now work on GitHub yay.
